@@ -1,0 +1,7 @@
+{
+  "name": "Vidyasagar Academy",
+  "description": "A comprehensive web application for Vidyasagar Academy, featuring academic resources, admissions, student life, and a multi-user portal system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
